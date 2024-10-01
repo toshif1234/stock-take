@@ -1,0 +1,4 @@
+org_id,warehouse,bin_id,storage_type,storage_sec
+abc,102,11234,abc,xyz
+abc,102,1232,abc,xyz
+abc,102,1323,abc,xyz
