@@ -62,7 +62,7 @@ async function create(params) {
         secure: false, // Set to true if using port 465
         auth: {
           user: "toshifpatil401@gmail.com", // Your email address
-          pass: "nyhc mklw ltyl llym", // Your email password
+          pass: "nyhc mqlw otyl llym", // Your email password
         },
       });
 
